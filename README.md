@@ -7,26 +7,31 @@ Each file "praticaX" has a pdf description of what had to be made and a file wit
 
 * PraticaI
 
-Hypothesis survey, exploratory analysis, distance-based similarity measures.
+  Hypothesis survey, exploratory analysis, distance-based similarity measures.
 
 * PraticaII
-Location measures (boxplot), dispersion measures (interval and variance), distribution measures (statistical moments, histogram), multivariate data.
+
+  Location measures (boxplot), dispersion measures (interval and variance), distribution measures (statistical moments, histogram), multivariate data.
 
 * PraticaIII
-Data summarization and graphical visualization (histogram, pie chart, scatter plot, etc.)
+
+  Data summarization and graphical visualization (histogram, pie chart, scatter plot, etc.)
 
 * PraticaIV
-Pre-processing, data quality, data cleaning (missing values, disposal, imputation), 
-inconsistent values, redundant objects, noise and outliers.
+
+  Pre-processing, data quality, data cleaning (missing values, disposal, imputation), inconsistent values, redundant objects, noise and outliers.
 
 * PrativaV
-Unbalanced data, data transformation (qualitative to quantitative and vice versa), attribute transformations.
+
+  Unbalanced data, data transformation (qualitative to quantitative and vice versa), attribute transformations.
 
 * PrativaVI
-Sampling (hold-out, resampling), assessment measures II (accuracy, precision, recall, sensitivity, specificity, F-Measure, etc.), ROC curve, hypothesis test.
+
+  Sampling (hold-out, resampling), assessment measures II (accuracy, precision, recall, sensitivity, specificity, F-Measure, etc.), ROC curve, hypothesis test.
 
 * PraticaVII
-Distance-based learning, distance measurements (similarity and dissimilarity), KNN.
+
+  Distance-based learning, distance measurements (similarity and dissimilarity), KNN.
 
 # Execution
 To execute this project you have to open the ".ipynb" files with "Jupyter-Notebook"
