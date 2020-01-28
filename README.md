@@ -6,7 +6,8 @@ Those exercises were made and executed in Python language using the "Jupyter Not
 Each file "praticaX" has a pdf description of what had to be made and a file with ".ipynb" extension that contains the results.
 
 * PraticaI
-  Hypothesis survey, exploratory analysis, distance-based similarity measures.
+
+Hypothesis survey, exploratory analysis, distance-based similarity measures.
 
 * PraticaII
 Location measures (boxplot), dispersion measures (interval and variance), distribution measures (statistical moments, histogram), multivariate data.
