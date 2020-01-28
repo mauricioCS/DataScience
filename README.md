@@ -5,31 +5,31 @@ Those exercises were made and executed in Python language using the "Jupyter Not
 
 Each file "praticaX" has a pdf description of what had to be made and a file with ".ipynb" extension that contains the results.
 
-* PraticaI
+* **Pratica I**
 
   Hypothesis survey, exploratory analysis, distance-based similarity measures.
 
-* PraticaII
+* **Pratica II**
 
   Location measures (boxplot), dispersion measures (interval and variance), distribution measures (statistical moments, histogram), multivariate data.
 
-* PraticaIII
+* **Pratica III**
 
   Data summarization and graphical visualization (histogram, pie chart, scatter plot, etc.)
 
-* PraticaIV
+* **Pratica IV**
 
   Pre-processing, data quality, data cleaning (missing values, disposal, imputation), inconsistent values, redundant objects, noise and outliers.
 
-* PrativaV
+* **Pratica V**
 
   Unbalanced data, data transformation (qualitative to quantitative and vice versa), attribute transformations.
 
-* PrativaVI
+* **Pratica VI**
 
   Sampling (hold-out, resampling), assessment measures II (accuracy, precision, recall, sensitivity, specificity, F-Measure, etc.), ROC curve, hypothesis test.
 
-* PraticaVII
+* **Pratica VII**
 
   Distance-based learning, distance measurements (similarity and dissimilarity), KNN.
 
